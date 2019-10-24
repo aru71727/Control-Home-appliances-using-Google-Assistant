@@ -1,0 +1,2 @@
+# Control-Home-appliances-using-Google-Assistant
+Google assistant is AI (Artificial Intelligence) based voice command service. Using voice, we can interact with google assistant and it can search on the internet, schedule events, set alarms, control appliances, etc.  This service is available on smartphones and Google Home devices.  We can control smart home devices including lights, switches, fans and thermostats using our Google Assistant.
